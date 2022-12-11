@@ -1,8 +1,11 @@
 # IZUL PROFIL
 
 Selamat datang di buku tugas Penambangan Data !
+
 Nama : Izul Ramdani
-NIM : 200411100010
+
+NIM : 200411100111
+
 Kelas : Penambangan Data A
 
 Apa sih Data Mining Itu ???
